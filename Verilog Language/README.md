@@ -1,7 +1,7 @@
 # Verilog Language
 ## Basics
 * [Simple wire](3/3.md)
-* Four wires
+* [Four wires](4/4.md)
 * Inverter
 * AND gate
 * NOR gate
