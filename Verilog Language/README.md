@@ -11,8 +11,8 @@
 
 ## Vectors
 * [Vectors](11/11.md)
-* Vectors in more detail
-* Vector part select
+* [Vectors in more detail](12/12.md)
+* [Vector part select](13/13.md)
 * Bitwise operators
 * Four-input gates
 * Vector concatenation operator
