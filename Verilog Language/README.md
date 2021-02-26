@@ -4,10 +4,10 @@
 * [Four wires](4/4.md)
 * [Inverter](5/5.md)
 * [AND gate](6/6.md)
-* NOR gate
-* XNOR gate
-* Declaring wires
-* 7458 chip
+* [NOR gate](7/7.md)
+* [XNOR gate](8/8.md)
+* [Declaring wires](9/9.md)
+* [7458 chip](10/10.md)
 
 ## Vectors
 * Vectors
