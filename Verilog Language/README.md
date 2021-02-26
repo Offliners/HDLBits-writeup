@@ -3,7 +3,7 @@
 * [Simple wire](3/3.md)
 * [Four wires](4/4.md)
 * [Inverter](5/5.md)
-* AND gate
+* [AND gate](6/6.md)
 * NOR gate
 * XNOR gate
 * Declaring wires
