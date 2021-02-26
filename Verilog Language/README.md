@@ -2,7 +2,7 @@
 ## Basics
 * [Simple wire](3/3.md)
 * [Four wires](4/4.md)
-* Inverter
+* [Inverter](5/5.md)
 * AND gate
 * NOR gate
 * XNOR gate
