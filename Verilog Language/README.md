@@ -10,7 +10,7 @@
 * [7458 chip](10/10.md)
 
 ## Vectors
-* Vectors
+* [Vectors](11/11.md)
 * Vectors in more detail
 * Vector part select
 * Bitwise operators
