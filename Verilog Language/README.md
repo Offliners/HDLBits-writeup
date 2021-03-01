@@ -21,7 +21,7 @@
 * [More replication](19/19.md)
 
 ## Modules: Hierarchy
-* Modules
+* [Modules](20/20.md)
 * Connecting ports by position
 * Connecting ports by name
 * Three modules
