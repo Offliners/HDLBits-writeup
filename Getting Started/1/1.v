@@ -1,6 +1,3 @@
-module top_module( output one );
-
-// Insert your code here
+module top_module(output one);
     assign one = 1'b1;
-
 endmodule
