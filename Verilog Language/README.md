@@ -23,7 +23,7 @@
 ## Modules: Hierarchy
 * [Modules](./20/20.md)
 * [Connecting ports by position](./21/21.md)
-* Connecting ports by name
+* [Connecting ports by name](./22/22.md)
 * Three modules
 * Modules and vectors
 * Adder 1
