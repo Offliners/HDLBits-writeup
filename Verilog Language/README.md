@@ -28,5 +28,5 @@
 * [Modules and vectors](./24/24.md)
 * [Adder 1](./25/25.md)
 * [Adder 2](./26/26.md)
-* Carry-select adder
-* Adder-subtractor
+* [Carry-select adder](./27/27.md)
+* [Adder-subtractor](./28/28.md)
