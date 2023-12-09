@@ -24,8 +24,8 @@
 * [Modules](./20/20.md)
 * [Connecting ports by position](./21/21.md)
 * [Connecting ports by name](./22/22.md)
-* Three modules
-* Modules and vectors
+* [Three modules](./23/23.md)
+* [Modules and vectors](./24/24.md)
 * Adder 1
 * Adder 2
 * Carry-select adder
