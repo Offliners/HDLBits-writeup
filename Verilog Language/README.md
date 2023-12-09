@@ -30,3 +30,22 @@
 * [Adder 2](./26/26.md)
 * [Carry-select adder](./27/27.md)
 * [Adder-subtractor](./28/28.md)
+
+## Modules: Procedures
+* [Always blocks (combinational)](./29/29.md)
+* Always blocks (clocked)
+* If statement
+* If statement latches
+* Case statement
+* Priority encoder
+* Priority encoder with casez
+* Avoiding latches
+
+## Modules: More Verilog Features
+* Conditional ternary operator
+* Reduction operators
+* Reduction: Even wider gates
+* Combinational for-loop: Vector reversal 2
+* Combinational for-loop: 255-bit population count
+* Generate for-loop: 100-bit binary adder 2
+* Generate for-loop: 100-digit BCD adder
