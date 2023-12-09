@@ -26,7 +26,7 @@
 * [Connecting ports by name](./22/22.md)
 * [Three modules](./23/23.md)
 * [Modules and vectors](./24/24.md)
-* Adder 1
+* [Adder 1](./25/25.md)
 * Adder 2
 * Carry-select adder
 * Adder-subtractor
