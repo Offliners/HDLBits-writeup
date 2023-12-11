@@ -45,7 +45,7 @@
 * [Conditional ternary operator](./37/37.md)
 * [Reduction operators](./38/38.md)
 * [Reduction: Even wider gates](./39/39.md)
-* Combinational for-loop: Vector reversal 2
-* Combinational for-loop: 255-bit population count
+* [Combinational for-loop: Vector reversal 2](./40/40.md)
+* [Combinational for-loop: 255-bit population count](./41/41.md)
 * Generate for-loop: 100-bit binary adder 2
 * Generate for-loop: 100-digit BCD adder
