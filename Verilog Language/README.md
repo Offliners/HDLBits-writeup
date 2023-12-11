@@ -42,9 +42,9 @@
 * [Avoiding latches](./36/36.md)
 
 ## Modules: More Verilog Features
-* Conditional ternary operator
-* Reduction operators
-* Reduction: Even wider gates
+* [Conditional ternary operator](./37/37.md)
+* [Reduction operators](./38/38.md)
+* [Reduction: Even wider gates](./39/39.md)
 * Combinational for-loop: Vector reversal 2
 * Combinational for-loop: 255-bit population count
 * Generate for-loop: 100-bit binary adder 2
