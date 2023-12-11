@@ -36,8 +36,8 @@
 * [Always blocks (clocked)](./30/30.md)
 * [If statement](./31/31.md)
 * [If statement latches](./32/32.md)
-* Case statement
-* Priority encoder
+* [Case statement](./33/33.md)
+* [Priority encoder](./34/34.md)
 * Priority encoder with casez
 * Avoiding latches
 
