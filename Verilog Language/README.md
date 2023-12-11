@@ -38,7 +38,7 @@
 * [If statement latches](./32/32.md)
 * [Case statement](./33/33.md)
 * [Priority encoder](./34/34.md)
-* Priority encoder with casez
+* [Priority encoder with casez](./35/35.md)
 * Avoiding latches
 
 ## Modules: More Verilog Features
