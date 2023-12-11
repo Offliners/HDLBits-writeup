@@ -39,7 +39,7 @@
 * [Case statement](./33/33.md)
 * [Priority encoder](./34/34.md)
 * [Priority encoder with casez](./35/35.md)
-* Avoiding latches
+* [Avoiding latches](./36/36.md)
 
 ## Modules: More Verilog Features
 * Conditional ternary operator
