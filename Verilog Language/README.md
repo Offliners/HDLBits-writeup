@@ -47,5 +47,5 @@
 * [Reduction: Even wider gates](./39/39.md)
 * [Combinational for-loop: Vector reversal 2](./40/40.md)
 * [Combinational for-loop: 255-bit population count](./41/41.md)
-* Generate for-loop: 100-bit binary adder 2
+* [Generate for-loop: 100-bit binary adder 2](./42/42.md)
 * Generate for-loop: 100-digit BCD adder
