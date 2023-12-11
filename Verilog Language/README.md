@@ -33,9 +33,9 @@
 
 ## Modules: Procedures
 * [Always blocks (combinational)](./29/29.md)
-* Always blocks (clocked)
-* If statement
-* If statement latches
+* [Always blocks (clocked)](./30/30.md)
+* [If statement](./31/31.md)
+* [If statement latches](./32/32.md)
 * Case statement
 * Priority encoder
 * Priority encoder with casez
