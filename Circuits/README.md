@@ -12,7 +12,7 @@
 * [Two-bit equality](./Combinational%20Logic/Basic%20Gates/52/52.md)
 * [Simple circuit A](./Combinational%20Logic/Basic%20Gates/53/53.md)
 * [Simple circuit B](./Combinational%20Logic/Basic%20Gates/54/54.md)
-* Combine circuits A and B
+* [Combine circuits A and B](./Combinational%20Logic/Basic%20Gates/55/55.md)
 * Ring or vibrate?
 * Thermostat
 * 3-bit population count
