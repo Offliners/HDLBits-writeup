@@ -48,4 +48,4 @@
 * [Combinational for-loop: Vector reversal 2](./40/40.md)
 * [Combinational for-loop: 255-bit population count](./41/41.md)
 * [Generate for-loop: 100-bit binary adder 2](./42/42.md)
-* Generate for-loop: 100-digit BCD adder
+* [Generate for-loop: 100-digit BCD adder](./43/43.md)
