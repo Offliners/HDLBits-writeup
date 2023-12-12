@@ -3,7 +3,7 @@
 ### Basic Gates
 * [Wire](./Combinational%20Logic/Basic%20Gates/44/44.md)
 * [GND](./Combinational%20Logic/Basic%20Gates/45/45.md)
-* NOR
+* [NOR](./Combinational%20Logic/Basic%20Gates/46/46.md)
 * Another gate
 * Two gates
 * More logic gates
