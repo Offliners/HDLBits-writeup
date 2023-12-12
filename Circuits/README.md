@@ -1,8 +1,8 @@
 # Circuits
 ## Combinational Logic
 ### Basic Gates
-* Wire
-* GND
+* [Wire](./Combinational%20Logic/Basic%20Gates/44/44.md)
+* [GND](./Combinational%20Logic/Basic%20Gates/45/45.md)
 * NOR
 * Another gate
 * Two gates
