@@ -4,14 +4,14 @@
 * [Wire](./Combinational%20Logic/Basic%20Gates/44/44.md)
 * [GND](./Combinational%20Logic/Basic%20Gates/45/45.md)
 * [NOR](./Combinational%20Logic/Basic%20Gates/46/46.md)
-* Another gate
-* Two gates
-* More logic gates
-* 7420 chip
-* Truth tables
-* Two-bit equality
-* Simple circuit A
-* Simple circuit B
+* [Another gate](./Combinational%20Logic/Basic%20Gates/47/47.md)
+* [Two gates](./Combinational%20Logic/Basic%20Gates/48/48.md)
+* [More logic gates](./Combinational%20Logic/Basic%20Gates/49/49.md)
+* [7420 chip](./Combinational%20Logic/Basic%20Gates/50/50.md)
+* [Truth tables](./Combinational%20Logic/Basic%20Gates/51/51.md)
+* [Two-bit equality](./Combinational%20Logic/Basic%20Gates/52/52.md)
+* [Simple circuit A](./Combinational%20Logic/Basic%20Gates/53/53.md)
+* [Simple circuit B](./Combinational%20Logic/Basic%20Gates/54/54.md)
 * Combine circuits A and B
 * Ring or vibrate?
 * Thermostat
