@@ -12,7 +12,7 @@ module top_module(
             3'b101 : out = 2;
             3'b110 : out = 2;
             3'b111 : out = 3;
-			default: out = 0;
+            default: out = 0;
         endcase
     end
 
