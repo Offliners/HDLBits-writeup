@@ -13,9 +13,9 @@
 * [Simple circuit A](./Combinational%20Logic/Basic%20Gates/53/53.md)
 * [Simple circuit B](./Combinational%20Logic/Basic%20Gates/54/54.md)
 * [Combine circuits A and B](./Combinational%20Logic/Basic%20Gates/55/55.md)
-* Ring or vibrate?
-* Thermostat
-* 3-bit population count
+* [Ring or vibrate?](./Combinational%20Logic/Basic%20Gates/56/56.md)
+* [Thermostat](./Combinational%20Logic/Basic%20Gates/57/57.md)
+* [3-bit population count](./Combinational%20Logic/Basic%20Gates/58/58.md)
 * Gates and vectors
 * Even longer vectors
 
