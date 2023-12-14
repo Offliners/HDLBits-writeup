@@ -29,9 +29,9 @@
 ### Arithmetic Circuits
 * [Half adder](./Combinational%20Logic/Arithmetic%20Circuits/66/66.md)
 * [Full adder](./Combinational%20Logic/Arithmetic%20Circuits/67/67.md)
-* 3-bit binary adder
-* Adder
-* Signed addition overflow
+* [3-bit binary adder](./Combinational%20Logic/Arithmetic%20Circuits/68/68.md)
+* [Adder](./Combinational%20Logic/Arithmetic%20Circuits/69/69.md)
+* [Signed addition overflow](./Combinational%20Logic/Arithmetic%20Circuits/70/70.md)
 * 100-bit binary adder
 * 4-digit BCD adder
 * Karnaugh Map to Circuit
