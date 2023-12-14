@@ -20,11 +20,11 @@
 * [Even longer vectors](./Combinational%20Logic/Basic%20Gates/60/60.md)
 
 ### Multiplexers
-* 2-to-1 multiplexer
-* 2-to-1 bus multiplexer
-* 9-to-1 multiplexer
-* 256-to-1 multiplexer
-* 256-to-1 4-bit multiplexer
+* [2-to-1 multiplexer](./Combinational%20Logic/Multiplexers/61/61.md)
+* [2-to-1 bus multiplexer](./Combinational%20Logic/Multiplexers/62/62.md)
+* [9-to-1 multiplexer](./Combinational%20Logic/Multiplexers/63/63.md)
+* [256-to-1 multiplexer](./Combinational%20Logic/Multiplexers/64/64.md)
+* [256-to-1 4-bit multiplexer](./Combinational%20Logic/Multiplexers/65/65.md)
 
 ### Arithmetic Circuits
 * Half adder
