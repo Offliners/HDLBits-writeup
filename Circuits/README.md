@@ -37,8 +37,8 @@
 
 ### Karnaugh Map to Circuit
 * [3-variable](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/73/73.md)
-* 4-variable
-* 4-variable
+* [4-variable](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/74/74.md)
+* [4-variable](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/75/75.md)
 * 4-variable
 * Minimum SOP and POS
 * Karnaugh map
