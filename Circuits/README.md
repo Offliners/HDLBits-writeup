@@ -27,8 +27,8 @@
 * [256-to-1 4-bit multiplexer](./Combinational%20Logic/Multiplexers/65/65.md)
 
 ### Arithmetic Circuits
-* Half adder
-* Full adder
+* [Half adder](./Combinational%20Logic/Arithmetic%20Circuits/66/66.md)
+* [Full adder](./Combinational%20Logic/Arithmetic%20Circuits/67/67.md)
 * 3-bit binary adder
 * Adder
 * Signed addition overflow
