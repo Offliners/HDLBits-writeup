@@ -16,8 +16,8 @@
 * [Ring or vibrate?](./Combinational%20Logic/Basic%20Gates/56/56.md)
 * [Thermostat](./Combinational%20Logic/Basic%20Gates/57/57.md)
 * [3-bit population count](./Combinational%20Logic/Basic%20Gates/58/58.md)
-* Gates and vectors
-* Even longer vectors
+* [Gates and vectors](./Combinational%20Logic/Basic%20Gates/59/59.md)
+* [Even longer vectors](./Combinational%20Logic/Basic%20Gates/60/60.md)
 
 ### Multiplexers
 * 2-to-1 multiplexer
