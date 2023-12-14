@@ -33,10 +33,10 @@
 * [Adder](./Combinational%20Logic/Arithmetic%20Circuits/69/69.md)
 * [Signed addition overflow](./Combinational%20Logic/Arithmetic%20Circuits/70/70.md)
 * [100-bit binary adder](./Combinational%20Logic/Arithmetic%20Circuits/71/71.md)
-* 4-digit BCD adder
+* [4-digit BCD adder](./Combinational%20Logic/Arithmetic%20Circuits/72/72.md)
 
 ### Karnaugh Map to Circuit
-* 3-variable
+* [3-variable](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/73/73.md)
 * 4-variable
 * 4-variable
 * 4-variable
