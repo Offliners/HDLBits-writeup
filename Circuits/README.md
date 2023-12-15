@@ -42,8 +42,8 @@
 * [4-variable](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/76/76.md)
 * [Minimum SOP and POS](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/77/77.md)
 * [Karnaugh map](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/78/78.md)
-* Karnaugh map
-* K-map implemented with a multiplexer
+* [Karnaugh map](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/79/79.md)
+* [K-map implemented with a multiplexer](./Combinational%20Logic/Karnaugh%20Map%20to%20Circuit/80/80.md)
 
 ## Sequential Logic
 ### Latches and Flip-Flops
