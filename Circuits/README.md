@@ -56,11 +56,11 @@
 * [D Latch](./Sequential%20Logic/Latches%20and%20Flip-Flops/87/87.md)
 * [DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/88/88.md)
 * [DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/89/89.md)
-* DFF+gate
-* Mux and DFF
-* Mux and DFF
-* DFFs and gates
-* Create circuit from truth table
+* [DFF+gate](./Sequential%20Logic/Latches%20and%20Flip-Flops/90/90.md)
+* [Mux and DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/91/91.md)
+* [Mux and DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/92/92.md)
+* [DFFs and gates](./Sequential%20Logic/Latches%20and%20Flip-Flops/93/93.md)
+* [Create circuit from truth table](./Sequential%20Logic/Latches%20and%20Flip-Flops/94/94.md)
 * Detect an edge
 * Detect both edges
 * Edge capture register
