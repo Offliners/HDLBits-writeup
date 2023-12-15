@@ -47,7 +47,7 @@
 
 ## Sequential Logic
 ### Latches and Flip-Flops
-* D flip-flop
+* [D flip-flop](./Sequential%20Logic/Latches%20and%20Flip-Flops/81/81.md)
 * D flip-flops
 * DFF with reset
 * DFF with reset value
