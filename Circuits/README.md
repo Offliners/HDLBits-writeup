@@ -50,12 +50,12 @@
 * [D flip-flop](./Sequential%20Logic/Latches%20and%20Flip-Flops/81/81.md)
 * [D flip-flops](./Sequential%20Logic/Latches%20and%20Flip-Flops/82/82.md)
 * [DFF with reset](./Sequential%20Logic/Latches%20and%20Flip-Flops/83/83.md)
-* DFF with reset value
-* DFF with asynchronous reset
-* DFF with byte enable
-* D Latch
-* DFF
-* DFF
+* [DFF with reset value](./Sequential%20Logic/Latches%20and%20Flip-Flops/84/84.md)
+* [DFF with asynchronous reset](./Sequential%20Logic/Latches%20and%20Flip-Flops/85/85.md)
+* [DFF with byte enable](./Sequential%20Logic/Latches%20and%20Flip-Flops/86/86.md)
+* [D Latch](./Sequential%20Logic/Latches%20and%20Flip-Flops/87/87.md)
+* [DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/88/88.md)
+* [DFF](./Sequential%20Logic/Latches%20and%20Flip-Flops/89/89.md)
 * DFF+gate
 * Mux and DFF
 * Mux and DFF
