@@ -48,8 +48,8 @@
 ## Sequential Logic
 ### Latches and Flip-Flops
 * [D flip-flop](./Sequential%20Logic/Latches%20and%20Flip-Flops/81/81.md)
-* D flip-flops
-* DFF with reset
+* [D flip-flops](./Sequential%20Logic/Latches%20and%20Flip-Flops/82/82.md)
+* [DFF with reset](./Sequential%20Logic/Latches%20and%20Flip-Flops/83/83.md)
 * DFF with reset value
 * DFF with asynchronous reset
 * DFF with byte enable
