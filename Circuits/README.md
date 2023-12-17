@@ -62,8 +62,8 @@
 * [DFFs and gates](./Sequential%20Logic/Latches%20and%20Flip-Flops/93/93.md)
 * [Create circuit from truth table](./Sequential%20Logic/Latches%20and%20Flip-Flops/94/94.md)
 * [Detect an edge](./Sequential%20Logic/Latches%20and%20Flip-Flops/95/95.md)
-* Detect both edges
-* Edge capture register
+* [Detect both edges](./Sequential%20Logic/Latches%20and%20Flip-Flops/96/96.md)
+* [Edge capture register](./Sequential%20Logic/Latches%20and%20Flip-Flops/97/97.md)
 * Dual-edge triggered flip-flop
 
 ### Counters
