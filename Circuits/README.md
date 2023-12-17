@@ -70,11 +70,11 @@
 * [Four-bit binary counter](./Sequential%20Logic/Counters/99/99.md)
 * [Decade counter](./Sequential%20Logic/Counters/100/100.md)
 * [Decade counter again](./Sequential%20Logic/Counters/101/101.md)
-* Slow decade counter
-* Counter 1-12
-* Counter 1000
-* 4-digit decimal counter
-* 12-hour clock
+* [Slow decade counter](./Sequential%20Logic/Counters/102/102.md)
+* [Counter 1-12](./Sequential%20Logic/Counters/103/103.md)
+* [Counter 1000](./Sequential%20Logic/Counters/104/104.md)
+* [4-digit decimal counter](./Sequential%20Logic/Counters/105/105.md)
+* [12-hour clock](./Sequential%20Logic/Counters/106/106.md)
 
 ### Shift Registers
 * 4-bit shift register
