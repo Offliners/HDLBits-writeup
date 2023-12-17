@@ -69,7 +69,7 @@
 ### Counters
 * [Four-bit binary counter](./Sequential%20Logic/Counters/99/99.md)
 * [Decade counter](./Sequential%20Logic/Counters/100/100.md)
-* Decade counter again
+* [Decade counter again](./Sequential%20Logic/Counters/101/101.md)
 * Slow decade counter
 * Counter 1-12
 * Counter 1000
