@@ -64,11 +64,11 @@
 * [Detect an edge](./Sequential%20Logic/Latches%20and%20Flip-Flops/95/95.md)
 * [Detect both edges](./Sequential%20Logic/Latches%20and%20Flip-Flops/96/96.md)
 * [Edge capture register](./Sequential%20Logic/Latches%20and%20Flip-Flops/97/97.md)
-* Dual-edge triggered flip-flop
+* [Dual-edge triggered flip-flop](./Sequential%20Logic/Latches%20and%20Flip-Flops/98/98.md)
 
 ### Counters
-* Four-bit binary counter
-* Decade counter
+* [Four-bit binary counter](./Sequential%20Logic/Counters/99/99.md)
+* [Decade counter](./Sequential%20Logic/Counters/100/100.md)
 * Decade counter again
 * Slow decade counter
 * Counter 1-12
