@@ -84,8 +84,8 @@
 * [3-bit LFSR](./Sequential%20Logic/Shift%20Registers/111/111.md)
 * [32-bit LFSR](./Sequential%20Logic/Shift%20Registers/112/112.md)
 * [Shift register](./Sequential%20Logic/Shift%20Registers/113/113.md)
-* Shift register
-* 3-input LUT
+* [Shift register](./Sequential%20Logic/Shift%20Registers/114/114.md)
+* [3-input LUT](./Sequential%20Logic/Shift%20Registers/115/115.md)
 
 ### More Circuits
 * Rule 90
