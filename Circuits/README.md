@@ -78,12 +78,12 @@
 
 ### Shift Registers
 * [4-bit shift register](./Sequential%20Logic/Shift%20Registers/107/107.md)
-* Left/right rotator
-* Left/right arithmetic shift by 1 or 8
-* 5-bit LFSR
-* 3-bit LFSR
-* 32-bit LFSR
-* Shift register
+* [Left/right rotator](./Sequential%20Logic/Shift%20Registers/108/108.md)
+* [Left/right arithmetic shift by 1 or 8](./Sequential%20Logic/Shift%20Registers/109/109.md)
+* [5-bit LFSR](./Sequential%20Logic/Shift%20Registers/110/110.md)
+* [3-bit LFSR](./Sequential%20Logic/Shift%20Registers/111/111.md)
+* [32-bit LFSR](./Sequential%20Logic/Shift%20Registers/112/112.md)
+* [Shift register](./Sequential%20Logic/Shift%20Registers/113/113.md)
 * Shift register
 * 3-input LUT
 
