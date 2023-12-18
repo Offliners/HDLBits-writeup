@@ -77,7 +77,7 @@
 * [12-hour clock](./Sequential%20Logic/Counters/106/106.md)
 
 ### Shift Registers
-* 4-bit shift register
+* [4-bit shift register](./Sequential%20Logic/Shift%20Registers/107/107.md)
 * Left/right rotator
 * Left/right arithmetic shift by 1 or 8
 * 5-bit LFSR
