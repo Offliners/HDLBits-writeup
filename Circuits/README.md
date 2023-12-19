@@ -89,8 +89,8 @@
 
 ### More Circuits
 * [Rule 90](./Sequential%20Logic/More%20Circuits/116/116.md)
-* Rule 110
-* Conway's Game of Life 16x16
+* [Rule 110](./Sequential%20Logic/More%20Circuits/117/117.md)
+* [Conway's Game of Life 16x16](./Sequential%20Logic/More%20Circuits/118/118.md)
 
 ### Finite State Machines
 * Simple FSM 1 (asynchronous reset)
