@@ -88,7 +88,7 @@
 * [3-input LUT](./Sequential%20Logic/Shift%20Registers/115/115.md)
 
 ### More Circuits
-* Rule 90
+* [Rule 90](./Sequential%20Logic/More%20Circuits/116/116.md)
 * Rule 110
 * Conway's Game of Life 16x16
 
