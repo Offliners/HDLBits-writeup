@@ -95,9 +95,9 @@
 ### Finite State Machines
 * [Simple FSM 1 (asynchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/119/119.md)
 * [Simple FSM 1 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/120/120.md)
-* Simple FSM 2 (asynchronous reset)
-* Simple FSM 2 (synchronous reset)
-* Simple state transitions 3
+* [Simple FSM 2 (asynchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/121/121.md)
+* [Simple FSM 2 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/122/122.md)
+* [Simple state transitions 3](./Sequential%20Logic/Finite%20State%20Machines/123/123.md)
 * Simple one-hot state transitions 3
 * Simple FSM 3 (asynchronous reset)
 * Simple FSM 3 (synchronous reset)
