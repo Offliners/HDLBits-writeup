@@ -93,8 +93,8 @@
 * [Conway's Game of Life 16x16](./Sequential%20Logic/More%20Circuits/118/118.md)
 
 ### Finite State Machines
-* Simple FSM 1 (asynchronous reset)
-* Simple FSM 1 (synchronous reset)
+* [Simple FSM 1 (asynchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/119/119.md)
+* [Simple FSM 1 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/120/120.md)
 * Simple FSM 2 (asynchronous reset)
 * Simple FSM 2 (synchronous reset)
 * Simple state transitions 3
