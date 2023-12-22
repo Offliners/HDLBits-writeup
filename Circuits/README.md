@@ -100,7 +100,7 @@
 * [Simple state transitions 3](./Sequential%20Logic/Finite%20State%20Machines/123/123.md)
 * Simple one-hot state transitions 3
 * [Simple FSM 3 (asynchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/125/125.md)
-* Simple FSM 3 (synchronous reset)
+* [Simple FSM 3 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/126/126.md)
 * Design a Moore FSM
 * Lemmings 1
 * Lemmings 2
