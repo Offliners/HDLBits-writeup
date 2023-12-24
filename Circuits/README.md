@@ -102,7 +102,7 @@
 * [Simple FSM 3 (asynchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/125/125.md)
 * [Simple FSM 3 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/126/126.md)
 * [Design a Moore FSM](./Sequential%20Logic/Finite%20State%20Machines/127/127.md)
-* Lemmings 1
+* [Lemmings 1](./Sequential%20Logic/Finite%20State%20Machines/128/128.md)
 * Lemmings 2
 * Lemmings 3
 * Lemmings 4
