@@ -105,7 +105,7 @@
 * [Lemmings 1](./Sequential%20Logic/Finite%20State%20Machines/128/128.md)
 * [Lemmings 2](./Sequential%20Logic/Finite%20State%20Machines/129/129.md)
 * [Lemmings 3](./Sequential%20Logic/Finite%20State%20Machines/130/130.md)
-* Lemmings 4
+* [Lemmings 4](./Sequential%20Logic/Finite%20State%20Machines/131/131.md)
 * One-hot FSM
 * PS/2 packet parser
 * PS/2 packet parser and datapath
