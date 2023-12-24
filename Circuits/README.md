@@ -103,8 +103,8 @@
 * [Simple FSM 3 (synchronous reset)](./Sequential%20Logic/Finite%20State%20Machines/126/126.md)
 * [Design a Moore FSM](./Sequential%20Logic/Finite%20State%20Machines/127/127.md)
 * [Lemmings 1](./Sequential%20Logic/Finite%20State%20Machines/128/128.md)
-* Lemmings 2
-* Lemmings 3
+* [Lemmings 2](./Sequential%20Logic/Finite%20State%20Machines/129/129.md)
+* [Lemmings 3](./Sequential%20Logic/Finite%20State%20Machines/130/130.md)
 * Lemmings 4
 * One-hot FSM
 * PS/2 packet parser
