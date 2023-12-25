@@ -111,7 +111,7 @@
 * [PS/2 packet parser and datapath](./Sequential%20Logic/Finite%20State%20Machines/134/134.md)
 * [Serial receiver](./Sequential%20Logic//Finite%20State%20Machines/135/135.md)
 * [Serial receiver and datapath](./Sequential%20Logic/Finite%20State%20Machines/136/136.md)
-* Serial receiver with parity checking
+* [Serial receiver with parity checking](./Sequential%20Logic/Finite%20State%20Machines/137/137.md)
 * Sequence recognition
 * Q8: Design a Mealy FSM
 * Q5a: Serial two's complementer (Moore FSM)
