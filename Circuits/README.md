@@ -107,9 +107,9 @@
 * [Lemmings 3](./Sequential%20Logic/Finite%20State%20Machines/130/130.md)
 * [Lemmings 4](./Sequential%20Logic/Finite%20State%20Machines/131/131.md)
 * [One-hot FSM](./Sequential%20Logic/Finite%20State%20Machines/132/132.md)
-* PS/2 packet parser
-* PS/2 packet parser and datapath
-* Serial receiver
+* [PS/2 packet parser](./Sequential%20Logic/Finite%20State%20Machines/133/133.md)
+* [PS/2 packet parser and datapath](./Sequential%20Logic/Finite%20State%20Machines/134/134.md)
+* [Serial receiver](./Sequential%20Logic//Finite%20State%20Machines/135/135.md)
 * Serial receiver and datapath
 * Serial receiver with parity checking
 * Sequence recognition

@@ -1,0 +1,32 @@
+module top_module(
+    input clk,
+    input [7:0] in,
+    input reset,    // Synchronous reset
+    output done); //
+    
+    parameter IDLE=0, S0=1, S1=2, S2=3;
+    reg [1:0] state, next_state;
+
+    // State transition logic (combinational)
+    always @(*) begin
+        case(state)
+            IDLE : next_state <= in[3] ? S0 : IDLE;
+            S0 : next_state <= S1;
+            S1 : next_state <= S2;
+            S2 : next_state <= in[3] ? S0 : IDLE;
+            default: next_state <= IDLE;
+        endcase
+    end
+
+    // State flip-flops (sequential)
+    always @(posedge clk) begin
+        if(reset)
+            state <= IDLE;
+        else
+        	state <= next_state;
+    end
+ 
+    // Output logic
+    assign done = state == S2;
+
+endmodule
