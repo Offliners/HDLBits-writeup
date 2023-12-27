@@ -117,9 +117,9 @@
 * [Q5a: Serial two's complementer (Moore FSM)](./Sequential%20Logic/Finite%20State%20Machines/140/140.md)
 * [Q5b: Serial two's complementer (Mealy FSM)](./Sequential%20Logic/Finite%20State%20Machines/141/141.md)
 * [Q3a: FSM](./Sequential%20Logic/Finite%20State%20Machines/142/142.md)
-* Q3b: FSM
-* Q3c: FSM logic
-* Q6b: FSM next-state logic
+* [Q3b: FSM](./Sequential%20Logic/Finite%20State%20Machines/143/143.md)
+* [Q3c: FSM logic](./Sequential%20Logic/Finite%20State%20Machines/144/144.md)
+* [Q6b: FSM next-state logic](./Sequential%20Logic/Finite%20State%20Machines/145/145.md)
 * Q6c: FSM one-hot next-state logic
 * Q6: FSM
 * Q2a: FSM
