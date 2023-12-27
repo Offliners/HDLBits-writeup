@@ -115,7 +115,7 @@
 * [Sequence recognition](./Sequential%20Logic/Finite%20State%20Machines/138/138.md)
 * [Q8: Design a Mealy FSM](./Sequential%20Logic/Finite%20State%20Machines/139/139.md)
 * [Q5a: Serial two's complementer (Moore FSM)](./Sequential%20Logic/Finite%20State%20Machines/140/140.md)
-* Q5b: Serial two's complementer (Mealy FSM)
+* [Q5b: Serial two's complementer (Mealy FSM)](./Sequential%20Logic/Finite%20State%20Machines/141/141.md)
 * Q3a: FSM
 * Q3b: FSM
 * Q3c: FSM logic
