@@ -120,11 +120,11 @@
 * [Q3b: FSM](./Sequential%20Logic/Finite%20State%20Machines/143/143.md)
 * [Q3c: FSM logic](./Sequential%20Logic/Finite%20State%20Machines/144/144.md)
 * [Q6b: FSM next-state logic](./Sequential%20Logic/Finite%20State%20Machines/145/145.md)
-* Q6c: FSM one-hot next-state logic
-* Q6: FSM
-* Q2a: FSM
-* Q2b: One-hot FSM equations
-* Q2a: FSM
+* [Q6c: FSM one-hot next-state logic](./Sequential%20Logic/Finite%20State%20Machines/146/146.md)
+* [Q6: FSM](./Sequential%20Logic/Finite%20State%20Machines/147/147.md)
+* [Q2a: FSM](./Sequential%20Logic/Finite%20State%20Machines/148/148.md)
+* [Q2b: One-hot FSM equations](./Sequential%20Logic/Finite%20State%20Machines/149/149.md)
+* [Q2a: FSM](./Sequential%20Logic/Finite%20State%20Machines/150/150.md)
 * Q2b: Another FSM
 
 ## Building Larger Circuits
