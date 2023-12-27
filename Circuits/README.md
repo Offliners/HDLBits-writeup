@@ -114,7 +114,7 @@
 * [Serial receiver with parity checking](./Sequential%20Logic/Finite%20State%20Machines/137/137.md)
 * [Sequence recognition](./Sequential%20Logic/Finite%20State%20Machines/138/138.md)
 * [Q8: Design a Mealy FSM](./Sequential%20Logic/Finite%20State%20Machines/139/139.md)
-* Q5a: Serial two's complementer (Moore FSM)
+* [Q5a: Serial two's complementer (Moore FSM)](./Sequential%20Logic/Finite%20State%20Machines/140/140.md)
 * Q5b: Serial two's complementer (Mealy FSM)
 * Q3a: FSM
 * Q3b: FSM
