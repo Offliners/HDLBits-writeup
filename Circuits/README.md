@@ -125,7 +125,7 @@
 * [Q2a: FSM](./Sequential%20Logic/Finite%20State%20Machines/148/148.md)
 * [Q2b: One-hot FSM equations](./Sequential%20Logic/Finite%20State%20Machines/149/149.md)
 * [Q2a: FSM](./Sequential%20Logic/Finite%20State%20Machines/150/150.md)
-* Q2b: Another FSM
+* [Q2b: Another FSM](./Sequential%20Logic/Finite%20State%20Machines/151/151.md)
 
 ## Building Larger Circuits
 * Counter with period 1000
