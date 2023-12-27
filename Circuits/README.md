@@ -128,7 +128,7 @@
 * [Q2b: Another FSM](./Sequential%20Logic/Finite%20State%20Machines/151/151.md)
 
 ## Building Larger Circuits
-* Counter with period 1000
+* [Counter with period 1000](./Building%20Larger%20Circuits/152/152.md)
 * 4-bit shift register and down counter
 * FSM: Sequence 1101 recognizer
 * FSM: Enable shift register
