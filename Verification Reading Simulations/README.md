@@ -7,8 +7,8 @@
 * [Case statement](./Finding%20bugs%20in%20code/163/163.md)
 
 ## Build a circuit from a simulation waveform
-* Combinational circuit 1
-* Combinational circuit 2
+* [Combinational circuit 1](./Build%20a%20circuit%20from%20a%20simulation%20waveform/164/164.md)
+* [Combinational circuit 2](./Build%20a%20circuit%20from%20a%20simulation%20waveform/165/165.md)
 * Combinational circuit 3
 * Combinational circuit 4
 * Combinational circuit 5
