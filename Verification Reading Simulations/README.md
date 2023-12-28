@@ -1,6 +1,6 @@
 # Verification: Reading Simulations
 ## Finding bugs in code
-* Mux
+* [Mux](./Finding%20bugs%20in%20code/159/159.md)
 * NAND
 * Mux
 * Add/sub
