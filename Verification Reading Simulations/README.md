@@ -16,4 +16,4 @@
 * [Sequential circuit 7](./Build%20a%20circuit%20from%20a%20simulation%20waveform/170/170.md)
 * [Sequential circuit 8](./Build%20a%20circuit%20from%20a%20simulation%20waveform/171/171.md)
 * [Sequential circuit 9](./Build%20a%20circuit%20from%20a%20simulation%20waveform/172/172.md)
-* Sequential circuit 10
+* [Sequential circuit 10](./Build%20a%20circuit%20from%20a%20simulation%20waveform/173/173.md)
