@@ -3,8 +3,8 @@
 * [Mux](./Finding%20bugs%20in%20code/159/159.md)
 * [NAND](./Finding%20bugs%20in%20code/160/160.md)
 * [Mux](./Finding%20bugs%20in%20code/161/161.md)
-* Add/sub
-* Case statement
+* [Add/sub](./Finding%20bugs%20in%20code/162/162.md)
+* [Case statement](./Finding%20bugs%20in%20code/163/163.md)
 
 ## Build a circuit from a simulation waveform
 * Combinational circuit 1
