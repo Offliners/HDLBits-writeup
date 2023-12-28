@@ -131,7 +131,7 @@
 * [Counter with period 1000](./Building%20Larger%20Circuits/152/152.md)
 * [4-bit shift register and down counter](./Building%20Larger%20Circuits/153/153.md)
 * [FSM: Sequence 1101 recognizer](./Building%20Larger%20Circuits/154/154.md)
-* FSM: Enable shift register
+* [FSM: Enable shift register](./Building%20Larger%20Circuits/155/155.md)
 * FSM: The complete FSM
 * The complete timer
 * FSM: One-hot logic equations

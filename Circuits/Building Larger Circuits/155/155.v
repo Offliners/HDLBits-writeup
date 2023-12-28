@@ -1,0 +1,29 @@
+module top_module (
+    input clk,
+    input reset,      // Synchronous reset
+    output shift_ena);
+    
+    parameter IDLE=1'b0, WAIT=1'b1;
+    reg state, next_state;
+    reg [2:0] count;
+    
+    always @(posedge clk) begin
+		if(state == WAIT)
+            count <= count + 3'b1;
+        else
+            count <= 3'b1;
+
+        state <= next_state;
+    end
+    
+    always @(*) begin
+        case(state)
+            IDLE : next_state <= reset ? WAIT : IDLE;
+            WAIT : next_state <= count == 3'd4 ? IDLE : WAIT;
+            default: next_state <= IDLE;
+        endcase
+    end
+    
+    assign shift_ena = state == WAIT;
+
+endmodule
